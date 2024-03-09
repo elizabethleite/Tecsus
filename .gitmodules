@@ -2,3 +2,7 @@
 	path = front-end
 	url = https://github.com/Data-Team23/Tecsus-frontend.git
 	branch = main
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/Data-Team23/Tecsus-backend.git
+	branch = main
