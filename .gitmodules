@@ -1,0 +1,4 @@
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/Data-Team23/Tecsus-frontend.git
+	branch = main
