@@ -51,31 +51,38 @@ Cada unidade do cliente pode possuir vários contratos (água, energia ou gás),
 <div>
   <table>
     <tr>
-    <td><b>Backlog</b></td>
-    <td><b>Importância</b></td>
-  </tr>
-  <tr>
-   <td>Consumo de arquivo de dados</td>
-   <td>Alta</td>
-  </tr>
-  <tr>
-   <td>Relatórios de Consumo</td>
-   <td>Alta</td>
-  </tr>
-  <tr>
-   <td>Alerta de Consumo</td>
-   <td>Alta</td>
-  </tr>
-  <tr>
-   <td>Cadastro de Concessionárias, Contratos e Unidades</td>
-   <td>Média</td>
-  </tr>
-  <tr>
-   <td>Controle de Usuários</td>
-   <td>Baixo</td>
-  </tr>
+      <td><b>Backlog</b></td>
+      <td><b>Importância</b></td>
+      <td><b>Estimativa (Em dias)</b></td>
+    </tr>
+    <tr>
+      <td>Consumo de arquivo de dados</td>
+      <td>Alta</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Relatórios de Consumo</td>
+      <td>Alta</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Alerta de Consumo</td>
+      <td>Alta</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Cadastro de Concessionárias, Contratos e Unidades</td>
+      <td>Média</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Controle de Usuários</td>
+      <td>Baixo</td>
+      <td>10</td>
+    </tr>
   </table>
 </div>
+
 
 # Backlog Sprint 01
 <div>
