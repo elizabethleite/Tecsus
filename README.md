@@ -51,34 +51,85 @@ Cada unidade do cliente pode possuir vários contratos (água, energia ou gás),
 <div>
   <table>
     <tr>
+      <td><b>Ranking</b></td>
       <td><b>Backlog</b></td>
-      <td><b>Importância</b></td>
+      <td><b>Pioridade</b></td>
+      <td><b>User Story</b></td>
       <td><b>Estimativa (Em dias)</b></td>
+      <td><b>Sprint</b></td>
     </tr>
     <tr>
+      <td>1</td>
       <td>Consumo de arquivo de dados</td>
       <td>Alta</td>
-      <td>5</td>
+      <td>Como Gestor Desejo um relatório com consumo total de energia mensal, anual e média Para que seja possível analisar as tendências e ter acesso a métricas importantes para o negócio</td>
+      <td>05</td>
+      <td>01</td>
     </tr>
     <tr>
-      <td>Relatórios de Consumo</td>
+      <td>2</td>
+      <td>Relatórios de Consumo Energia</td>
       <td>Alta</td>
-      <td>10</td>
+      <td>Como Gestor Desejo um relatório com consumo total de energia mensal, anual e média Para que seja possível analisar as tendências e ter acesso a métricas importantes para o negócio.</td>
+      <td>01</td>
+      <td>01</td>
     </tr>
     <tr>
+      <td>3</td>
+      <td>Relatórios de Consumo Gás</td>
+      <td>Alta</td>
+      <td>Como Gestor Desejo um relatório com consumo total de Gás mensal, anual e média Para que seja possível analisar as tendências e ter acesso a métricas importantes para o negócio.</td>
+      <td>01</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Relatórios de Consumo água</td>
+      <td>Alta</td>
+      <td>Como Gestor Desejo um relatório com consumo total de água mensal, anual e média Para que seja possível analisar as tendências e ter acesso a métricas importantes para o negócio.</td>
+      <td>01</td>
+      <td>01</td>
+    </tr>
+    <tr>
+      <td>5</td>
       <td>Alerta de Consumo</td>
       <td>Alta</td>
-      <td>10</td>
+      <td>Como um analista técnico/financeiro da TecSUS, Gostaria de receber alertas automatizados Para identificar consumos de água, energia ou gás que excedam a média dos últimos 3 meses De modo a poder tomar medidas proativas para investigar possíveis anomalias.</td>
+      <td>05</td>
+      <td>02</td>
     </tr>
     <tr>
-      <td>Cadastro de Concessionárias, Contratos e Unidades</td>
+      <td>6</td>
+      <td>Cadastro de Concessionárias</td>
       <td>Média</td>
-      <td>5</td>
+      <td>Como um funcionário da TecSUS responsável pelo gerenciamento de dados, Gostaria de cadastrar as concessionárias de abastecimento de energia, água e gás
+Para garantir que as informações estejam atualizadas e disponíveis para associação com os contratos e unidades dos clientes.</td>
+      <td>05</td>
+      <td>03</td>
     </tr>
     <tr>
+      <td>7</td>
+      <td>Cadastro de Contratos</td>
+      <td>Média</td>
+      <td>Como um colaborador da TecSUS encarregado do gerenciamento de contratos, Gostaria de registrar os contratos de fornecimento de energia, água e gás para cada cliente Para manter um registro organizado e preciso das obrigações contratuais e dos serviços prestados.</td>
+      <td>05</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Cadastro de Unidades</td>
+      <td>Média</td>
+      <td>Como um membro da equipe da TecSUS encarregado da gestão de unidades dos clientes, Gostaria de cadastrar as unidades dos clientes, identificando-as por localização e características específicas Para organizar os dados e facilitar a associação com os contratos e as contas de consumo de energia, água e gás.</td>
+      <td>05</td>
+      <td>03</td>
+    </tr>
+    <tr>
+      <td>9</td>
       <td>Controle de Usuários</td>
-      <td>Baixo</td>
-      <td>10</td>
+      <td>Baixa</td>
+      <td>Como um membro da equipe da TecSUS encarregado da gestão de unidades dos clientes, Gostaria de cadastrar as unidades dos clientes, identificando-as por localização e características específicas Para organizar os dados e facilitar a associação com os contratos e as contas de consumo de energia, água e gás.</td>
+      <td>05</td>
+      <td>04</td>
     </tr>
   </table>
 </div>
